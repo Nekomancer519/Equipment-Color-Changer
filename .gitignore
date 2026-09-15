@@ -1,0 +1,9 @@
+build/
+.xmake/
+backups/
+test-results-*/
+*.dll
+*.pdb
+*.lib
+*.exp
+*.log
